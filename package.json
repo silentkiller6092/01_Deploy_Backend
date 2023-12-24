@@ -1,0 +1,18 @@
+{
+  "name": "01_deploy_backend",
+  "version": "1.0.0",
+  "description": "Basis App for Deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Shivam Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
